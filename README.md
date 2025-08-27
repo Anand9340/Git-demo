@@ -1,4 +1,4 @@
 # Git-demo
 This is my first git repo
 <br>
-Author - Anand singh
+Author - Anand (Satna)
