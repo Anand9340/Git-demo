@@ -1,3 +1,4 @@
 # Git-demo
 This is my first git repo
-Author- Anand singh
+<br>
+Author - Anand singh
